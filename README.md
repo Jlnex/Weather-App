@@ -1,6 +1,8 @@
 # ☁️ Weather App
 
 This is a modern and responsive web application that allows users to quickly access live weather information for any city.
+
+
 ![Application Demo](gif.gif)
 
 ## 📖 About the Project
